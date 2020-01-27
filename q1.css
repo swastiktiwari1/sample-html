@@ -1,0 +1,15 @@
+body{
+    color: white;
+    
+    background-image: url(https://wallpaperaccess.com/full/234927.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header-class, .table-class{
+    color: black;
+    background: white;
+}
